@@ -11,17 +11,18 @@
 
 <p> The first map represents twitter data collected in the morning with the second map being in the evening.<br>
     The two maps with data collected at different times were very similar in appearance only presenting different<br>
-    geospatial patterns because the tweets themselves were different so the dots on the map moved slightly. Despite<br>
-    the fact that the tweets changed, nearly all of the tweets in the later part of the day were still in the<br>
-    same area as the morning, places that are well populated with many people using social media.</p>
+    geospatial patterns because the tweets themselves were different so the dots on the map moved slightly.<br>
+    Despite the fact that the tweets changed, nearly all of the tweets in the later part of the day were still<br>
+    in the same area as the morning, places that are well populated with many people using social media.</p>
 
 ## Word Cloud Comparison
 
 <p><img src="/img/Word%20Art.png" width="400" height="200"></p>
 <p><img src="/img/Word%20Art%202.png" width="400" height="400"></p>
 
-<p> The first word cloud represents twitter data collected in the morning with the second word cloud being in the evening.<br>
-    The two word clouds differed as different key words were notably larger. In the first cloud we can see words such as<br>
-    "Job", "Never", and "Time" were quite popular. This could be due to the time of day as many adults are waking up and<br>
-    and heading to their jobs. Likewise, in the second word cloud, words such as "Day", "Out", and "Up" were seen often.<br>
-    This could be tied to people tweeting about how their day went, being out all day before heading home.</p>
+<p> The first word cloud represents twitter data collected in the morning with the second word cloud being in the<br>
+    evening. The two word clouds differed as different key words were notably larger. In the first cloud we can<br>
+    see words such as "Job", "Never", and "Time" were quite popular. This could be due to the time of day as many<br>
+    adults are waking up and heading to their jobs. Likewise, in the second word cloud, words such as "Day",<br>
+    "Out", and "Up" were seen often. This could be tied to people tweeting about how their day went, being out<br>
+    all day before heading home.</p>
